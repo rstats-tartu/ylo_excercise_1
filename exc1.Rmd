@@ -1,0 +1,10 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+```
+
+In the project folder there is an Excel file called excercise1_salaries.xlsx, which contains a measure of income for 15053 people. I am going to randomly pick one number from this file. Your task is to give your best estimate (plus/minus 100 units), what this number will be. This is your first mission, should you decide to accept it.
